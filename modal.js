@@ -22,3 +22,7 @@ window.onclick = function(event) {
     modal.style.display = "none";
   }
 }
+
+function hello_world() {
+  return "hello_world"
+}
